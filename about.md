@@ -1,30 +1,33 @@
 ---
-title: About
-layout: page
+layout: default
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<h2>Skills</h2>
+# 👋 Hello, I'm Nandi Gir
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+Welcome to my personal portfolio! I'm currently exploring Data Science and Cybersecurity. Below are some of the projects I've worked on.
 
-<h2>Projects</h2>
+---
 
-<ul>
-	<li><a href="https://github.com/">weather app</a></li>
-	<li><a href="https://github.com/">SMS</a></li>
-</ul>
+## 💼 Projects
+
+### 🛡️ Fraud Detection System
+**Description:**  
+This project aims to identify potentially fraudulent credit card transactions using machine learning techniques.
+
+**What I Did:**
+- Collected and preprocessed data from a real-world dataset.
+- Used logistic regression and random forest for classification.
+- Evaluated model performance using accuracy, precision, recall, and F1 score.
+
+**Tools & Tech:**
+- Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebook
+
+📂 [View Project on GitHub](https://github.com/yourusername/fraud-detection-project)
+
+---
+
+## 📫 Contact
+
+Feel free to reach out at:  
+📧 21eg112a63@anurag.edu.in  
+🌐 [GitHub Profile](https://github.com/nandigir)
